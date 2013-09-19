@@ -1,4 +1,4 @@
 get '/' do
-  # Look in app/views/index.erb
+  # Show home page
   erb :index
 end
